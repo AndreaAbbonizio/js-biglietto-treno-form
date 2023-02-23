@@ -1,0 +1,22 @@
+main {
+    background-color: #b91450;
+    height: 100vh;
+}
+
+main .container-top{
+    max-width: 950px;
+    margin: auto;
+    padding: 30px 10px;
+}
+
+
+main .container-bottom{
+    max-width: 950px;
+    margin: auto;
+    padding: 30px 10px;
+}
+
+main .container-bottom .name-container{
+    width: 25%;
+    background-color: grey;
+}
